@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/H-Richard/truemail.svg?branch=master)](https://travis-ci.com/H-Richard/truemail)
+
 # truemail
 
 An email validator package for [Golang](https://golang.org/)
