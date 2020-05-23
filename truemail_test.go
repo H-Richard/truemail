@@ -19,6 +19,5 @@ func TestValidate(t *testing.T) {
 		if actual := v.Validate(c.email); actual != c.expected {
 			t.Errorf("Test failed for %s\nexpected: %s\nactual: %s", c.email, c.expected, actual)
 		}
-
 	}
 }
