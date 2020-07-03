@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/H-Richard/truemail.svg?branch=master)](https://travis-ci.com/H-Richard/truemail)
+[![Documentation](https://godoc.org/github.com/H-Richard/truemail?status.svg)](https://godoc.org/github.com/H-Richard/truemail)
 
 # truemail
 
