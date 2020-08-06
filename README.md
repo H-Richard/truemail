@@ -25,7 +25,7 @@ import (
 func main() {
   //Validate only format
   v:= truemail.Validator{}
-  fmt.PrintLn(v.Validate("r.hong@pm.me))
+  fmt.PrintLn(v.Validate("r.hong@pm.me"))
 }
 ```
 
@@ -35,6 +35,6 @@ func main() {
 func main() {
   //Validate both format and domain
   v := truemail.Validator{Domains: []string{"pm.me"}}
-  fmt.PrintLn(v.Validate("r.hong@pm.me))
+  fmt.PrintLn(v.Validate("r.hong@pm.me"))
 }
 ```
